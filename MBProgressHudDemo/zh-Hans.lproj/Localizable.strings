@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  MBProgressHudDemo
+
+  Created by Tony Zhang on 16/7/4.
+  Copyright © 2016年 Tony Zhang. All rights reserved.
+*/
+
+"HUD loading title" = "加载中...";
+"HUD title" = "解析数据\n(1/1)";
+"HUD message title" = "显示信息";
+"HUD done title" = "完成";
+"HUD cleanining up title" = "清除...";
